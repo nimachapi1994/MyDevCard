@@ -20,6 +20,7 @@ namespace DevCard_Mvc.Controllers
 
         public IActionResult Index()
         {
+            int a = 1;
             return View();
         }
 
