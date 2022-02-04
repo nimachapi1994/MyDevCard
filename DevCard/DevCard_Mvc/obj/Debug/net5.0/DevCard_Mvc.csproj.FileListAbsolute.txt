@@ -38,3 +38,6 @@ C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\r
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\DevCard_Mvc.pdb
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\DevCard_Mvc.genruntimeconfig.cache
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\DevCard_Mvc.csproj.CopyComplete
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\bin\Debug\net5.0\libman.json
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\bin\Debug\net5.0\package.json
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
