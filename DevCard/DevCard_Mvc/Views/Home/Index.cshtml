@@ -1,7 +1,5 @@
 ﻿
-@{ 
-    ViewData["Title"] = "صفحه اصلی وبسایت نیما چاپی";
-}
+@{ ViewData["Title"] = "صفحه اصلی وبسایت نیما چاپی"; }
 
 @model IndexModel
 <section class="about-me-section p-3 p-lg-5 theme-bg-light">
@@ -33,10 +31,14 @@
         </div>
     </div>
 </section>
-<partial name="project" />
+@*<partial name="project" />*@
+
+@await Component.InvokeAsync("Project")
 
 <div class="container">
     <hr>
 </div>
+@*by patrial view*@
+@*@await Html.PartialAsync("Atricle")*@
 
-@await Html.PartialAsync("Atricle")
+
