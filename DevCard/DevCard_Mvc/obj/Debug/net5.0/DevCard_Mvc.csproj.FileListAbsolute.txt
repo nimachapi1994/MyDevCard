@@ -117,5 +117,7 @@ C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\D
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\ref\DevCard_Mvc.dll
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\DevCard_Mvc.pdb
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\DevCard_Mvc.genruntimeconfig.cache
-C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Components\Atricle\Atricle.cshtml.g.cs
 C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Components\Project\Project.cshtml.g.cs
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Components\Article\Article.cshtml.g.cs
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\NimaChapi\source\repos\MyDevCard\DevCard\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
