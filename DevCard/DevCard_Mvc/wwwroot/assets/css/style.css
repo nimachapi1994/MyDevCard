@@ -9,9 +9,13 @@
     font-style: normal;
 }
 
+<<<<<<< HEAD
 .validationcontactFormSpanMessage{
     color:red;
 }
+=======
+
+>>>>>>> c98aa6dd44887bf079f5f960b5971ac811557215
 body {
     direction: rtl !important;
     text-align: right;
