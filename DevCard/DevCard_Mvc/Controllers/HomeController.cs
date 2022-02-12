@@ -11,7 +11,7 @@ namespace DevCard_Mvc.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+
 
       
         public IActionResult Index()
@@ -19,9 +19,14 @@ namespace DevCard_Mvc.Controllers
            
             return View();
         }
-        public IActionResult Contact()
+        public IActionResult contact()
         {
-            return View();
+            return View(new Contact());
+        }
+        [ValidateAntiForgeryToken]
+        public IActionResult GetContact(Contact contact)
+        {
+            return Ok();
         }
 
         
